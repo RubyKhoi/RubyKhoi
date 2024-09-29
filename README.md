@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @RubyKhoi
-- 👀 I’m interested in Minecraft,Scratch and Python
-- 🌱 I’m currently learning Scratch and Python
+A programmer that has no idea what he's even doing.
 
 <!---
 RubyKhoi/RubyKhoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
